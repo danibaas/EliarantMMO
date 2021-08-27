@@ -1,0 +1,36 @@
+name: EliarantMMO
+main: eliarant.shizleshizle.mmo.MMO
+version: 0.0.1
+api-version: 1.13
+depend: [ Trilar_Core ]
+commands:
+  mmo:
+    description: Main command of the MMO plugin.
+  acrobatics:
+    description: View your progress in the Acrobatics skill.
+  archery:
+    description: View your progress in the Archery skill.
+  axes:
+    description: View your progress in the Axes skill.
+  swords:
+    description: View your progress in the Swords skill.
+  unarmed:
+    description: View your progress in the Unarmed skill.
+  excavation:
+    description: View your progress in the Excavation skill.
+  fishing:
+    description: View your progress in the Fishing skill.
+  herbalism:
+    description: View your progress in the Herbalism skill.
+  mining:
+    description: View your progress in the Mining skill.
+  woodcutting:
+    description: View your progress in the Woodcutting skill.
+  alchemy:
+    description: View your progress in the Alchemy skill.
+  repair:
+    description: View your progress in the Repair skill.
+  taming:
+    description: View your progress in the Taming skill.
+  smithing:
+    description: View your progress in the Smithing skill.
